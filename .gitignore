@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+output/
+
+# Spark
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Docker
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db

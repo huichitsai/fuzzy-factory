@@ -1,5 +1,5 @@
 # Project Summary
-- Demonstrate the use cases for spark and flink
+- Demonstrate the use cases for spark or flink
 - Demonstrate how to simulate AWS environment for local development
 
 ## Data preparation
