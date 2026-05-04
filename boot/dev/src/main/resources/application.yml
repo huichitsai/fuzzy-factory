@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: dev
+  servlet:
+    multipart:
+      max-file-size: 1000MB    # Adjust based on your needs
+      max-request-size: 1000MB
+
